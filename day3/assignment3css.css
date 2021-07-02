@@ -1,0 +1,28 @@
+.parent{
+    width:100%;
+    background-color: grey;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    display:flex;
+}
+.child{
+    height: 30px;
+    width: 15%;
+    background-color: red;
+    margin: 3px;
+}
+.parent2{
+    width:100%;
+    background-color:black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+   
+}
+.child2{
+    height: 50px;
+    width: 20%;
+    background-color: grey;
+    margin-left: 2%;
+    display:inline-block;
+}
+
